@@ -1,15 +1,49 @@
-## About us
-AcidPS3 is the official project of reviving the PS3 community.
+![AcidPS3 Store Logo](https://acidps3.22web.org/pics/logo.png)
 
-And believe it or not, we might want to revive PSP community also.\
-We can also try do something for PS4/PSVita, but we need testers.
+<a href="https://discord.gg/7XuQDYjyzt">
+	<img src="https://img.shields.io/discord/1459965378124976220?logo=discord&logoColor=white&label=AcidPS3%20Server" />
+</a>
 
-We actually do so many stuff. Too bad I'm working alone for now.
+AcidPS3 Project is considered as a service, where people can download some cool stuff for PlayStation 3 (and not only) Systems!\
+From Games and DLCs to Customization stuff. If needed to make some other stuff for PS3, please, refer to the issues tab [here](https://github.com/AcidPS3-Project/AcidPS3Data/issues)!\
+We kinda focus on PS3 stuff mainly, but if we can, we might do some stuff for PSP, PS4 and PSVita.
 
-If you want, you can apply to AcidPS3 Staff. Discord needed. 
+> [!NOTE]
+> About game distributing:\
+> If you want to see some projects from other authors, We need their permission to distribute their work on our website.
+> 
+> About customization distributing: (Themes, Coldboots, and other..)\
+> We might just credit them and some times later distribute this stuff on our website.
 
-Anyways, we provide never-ending support, cool games and much more! We need to grow our AcidPS3 project.
+# How can I submit my own game?
+It's very simple! Just go to the [issues tab](https://github.com/AcidPS3-Project/AcidPS3Data/issues), then add a new issue with "Submit your game" template with any of your desired console target, and fill up your issue. We will check anytime soon.\
+But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconveniences! ^_^
 
-Please share with all of your friends with PlayStation consoles.
+# Games List
 
-\- Sincerely, AcidNT3.1 (founder of AcidPS3 Project)
+## PS3
+* [Baldi's Basics](https://acidps3.22web.org/games/ps3/baldi)
+* [(NON-ORG) Hong Kong 97](https://acidps3.22web.org/games/ps3/hk97)
+* [Minesweeper Plus](https://acidps3.22web.org/games/ps3/msplus) [(Source Code)](https://github.com/AcidPS3-Project/MinesweeperPlusPS3)
+* [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidPS3-Project/FNFPS3Engine.gmx)
+* Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
+* [Sonic Mania](https://acidps3.22web.org/games/ps3/sonicmania) [(Decompilation Project)](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
+
+# Note!!
+Fan-made Sonic ports for PS3 are done by DropSonic0, here is the [permission](https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74) to distribute on this service.\
+For Sonic Mania you really need to have the original game, as it is a decompilation of Sonic Mania. Tutorial may be found [here](https://github.com/DropSonic0/Sonic-Mania-Decompilation#support-the-official-release-of-sonic-mania-plus).\
+Also I do NOT own any game I make an edition of. Every original game is by their respective owners.
+
+# Coming soon
+* (NON-ORG) Raise the Koishi: Re-Coded (Announced)
+* Five Nights at Freddy's: PS3 Edition
+* Orange Roulette: PS3 Edition (Announced)
+* PB95-PS3 [(Source Code)](https://github.com/AcidPS3-Project/PB95-PS3)
+* Geometry Dash: PS3 Edition (Announced)
+* Big Money: PS3 Edition (Announced)
+* (NON-ORG) Ultimate Cross Adventure (Announced)
+* Something more, that I cannot announce yet.
+
+# Legal notices
+AcidPS3 Project service was, is and always will be free no matter what. We will NEVER get any financial profit from this.\
+If you want to set your game as priced, 100% of profit goes to you :)
