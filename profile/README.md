@@ -31,7 +31,7 @@ But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconvenien
 # Note!!
 Fan-made Sonic ports for PS3 are done by DropSonic0, here is the [permission](https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74) to distribute on this service.\
 For Sonic Mania you really need to have the original game, as it is a decompilation of Sonic Mania. Tutorial may be found [here](https://github.com/DropSonic0/Sonic-Mania-Decompilation#support-the-official-release-of-sonic-mania-plus).\
-Also I do NOT own any game I make an edition of. Every original game is by their respective owners.
+Also We do NOT own any game I make a port/edition of. Every original game is made by their respective owners.
 
 # Coming soon
 * DoodleBob: PS3 Port [(Source Code)](https://github.com/AcidPS3-Project/DoodleBob-PS3)
