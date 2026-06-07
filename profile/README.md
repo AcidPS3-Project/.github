@@ -23,7 +23,6 @@ But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconvenien
 
 ## PS3
 * [Baldi's Basics](https://acidps3.22web.org/games/ps3/baldi)
-* (NON-ORG) [Hong Kong 97](https://acidps3.22web.org/games/ps3/hk97)
 * [Minesweeper Plus](https://acidps3.22web.org/games/ps3/msplus) [(Source Code)](https://github.com/AcidPS3-Project/MinesweeperPlusPS3)
 * [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidPS3-Project/FNFPS3Engine.gmx)
 * (NON-ORG) Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
@@ -35,12 +34,13 @@ For Sonic Mania you really need to have the original game, as it is a decompilat
 Also I do NOT own any game I make an edition of. Every original game is by their respective owners.
 
 # Coming soon
-* (NON-ORG) Raise the Koishi: Re-Coded (Announced)
+* DoodleBob: PS3 Port [(Source Code)](https://github.com/AcidPS3-Project/DoodleBob-PS3)
 * Five Nights at Freddy's: PS3 Edition
 * Orange Roulette: PS3 Edition (Announced)
 * PB95-PS3 [(Source Code)](https://github.com/AcidPS3-Project/PB95-PS3)
 * Geometry Dash: PS3 Edition (Announced)
 * Big Money: PS3 Edition (Announced)
+* (NON-ORG) Raise the Koishi: Re-Coded (Announced)
 * (NON-ORG) Ultimate Cross Adventure (Announced)
 * Something more, that I cannot announce yet.
 
