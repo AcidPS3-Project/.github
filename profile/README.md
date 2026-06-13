@@ -25,6 +25,7 @@ But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconvenien
 * [Baldi's Basics](https://acidps3.22web.org/games/ps3/baldi)
 * [Minesweeper Plus](https://acidps3.22web.org/games/ps3/msplus) [(Source Code)](https://github.com/AcidPS3-Project/MinesweeperPlusPS3)
 * [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidPS3-Project/FNFPS3Engine.gmx)
+* DoodleBob: PS3 Port [(Source Code)](https://github.com/AcidPS3-Project/DoodleBob-PS3)
 * (NON-ORG) Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
 * (NON-ORG) [Sonic Mania](https://acidps3.22web.org/games/ps3/sonicmania) [(Decompilation Project)](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
 
@@ -34,7 +35,6 @@ For Sonic Mania you really need to have the original game, as it is a decompilat
 Also We do NOT own any game we make a port/edition of. Every original game is made by their respective owners.
 
 # Coming soon
-* DoodleBob: PS3 Port [(Source Code)](https://github.com/AcidPS3-Project/DoodleBob-PS3)
 * Five Nights at Freddy's: PS3 Edition
 * Orange Roulette: PS3 Edition (Announced)
 * PB95-PS3 [(Source Code)](https://github.com/AcidPS3-Project/PB95-PS3)
