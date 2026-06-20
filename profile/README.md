@@ -23,7 +23,7 @@ But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconvenien
 
 ## PS3
 * [Baldi's Basics](https://acidps3.22web.org/games/ps3/baldi)
-* [Minesweeper Plus](https://acidps3.22web.org/games/ps3/msplus) [(Source Code)](https://github.com/AcidPS3-Project/MinesweeperPlusPS3)
+* [Minesweeper Plus](https://acidps3.22web.org/games/ps3/msplus) [(Source Code for v0.3 and below)](https://github.com/AcidPS3-Project/MinesweeperPlusPS3)
 * [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidPS3-Project/FNFPS3Engine.gmx)
 * [DoodleBob: PS3 Port](https://acidps3.22web.org/games/ps3/doodlebob/) [(Source Code)](https://github.com/AcidPS3-Project/DoodleBob-PS3)
 * (NON-ORG) Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
