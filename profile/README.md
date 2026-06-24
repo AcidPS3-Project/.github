@@ -22,9 +22,9 @@ But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconvenien
 # Games List
 
 ## PS3
-* [Baldi's Basics](https://acidps3.22web.org/games/ps3/baldi)
-* [Minesweeper Plus](https://acidps3.22web.org/games/ps3/msplus) [(Source Code for v0.3 and below)](https://github.com/AcidPS3-Project/MinesweeperPlusPS3)
-* [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidPS3-Project/FNFPS3Engine.gmx)
+* [Baldi's Basics](https://acidps3.22web.org/games/ps3/baldi) (MAY BE ABANDONED DUE TO LACK OF MOTIVATION)
+* [Minesweeper Plus: PS3 Edition](https://acidps3.22web.org/games/ps3/msplus) [(Source Code for v0.3 and below)](https://github.com/AcidPS3-Project/MinesweeperPlusPS3)
+* [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidPS3-Project/FNFPS3Engine.gmx) (MAY BE ABANDONED DUE TO LACK OF MOTIVATION)
 * [DoodleBob: PS3 Port](https://acidps3.22web.org/games/ps3/doodlebob/) [(Source Code)](https://github.com/AcidPS3-Project/DoodleBob-PS3)
 * (NON-ORG) Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
 * (NON-ORG) [Sonic Mania](https://acidps3.22web.org/games/ps3/sonicmania) [(Decompilation Project)](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
@@ -35,10 +35,11 @@ For Sonic Mania you really need to have the original game, as it is a decompilat
 Also We do NOT own any game we make a port/edition of. Every original game is made by their respective owners.
 
 # Coming soon
-* Five Nights at Freddy's: PS3 Edition
+* PS3Sweeper+ (Minesweeper Plus: PS3 Edition re-written with C)
+* Five Nights at Freddy's: PS3 Edition (MAY BE VAPOR-WARE DUE TO LACK OF MOTIVATION)
 * Orange Roulette: PS3 Edition (Announced)
-* PB95-PS3 [(Source Code)](https://github.com/AcidPS3-Project/PB95-PS3)
-* Geometry Dash: PS3 Edition (Announced)
+* PB95-PS3 [(Source Code)](https://github.com/AcidPS3-Project/PB95-PS3) (MAY BE RE-WRITTEN)
+* Geometry Dash: PS3 Edition (Announced) (MAY BE VAPOR-WARE DUE TO LACK OF MOTIVATION)
 * Big Money: PS3 Edition (Announced)
 * (NON-ORG) Raise the Koishi: Re-Coded (Announced)
 * (NON-ORG) Ultimate Cross Adventure (Announced)
@@ -46,4 +47,10 @@ Also We do NOT own any game we make a port/edition of. Every original game is ma
 
 # Legal notices
 AcidPS3 Project service was, is and always will be free no matter what. We will NEVER get any financial profit from this.\
-If you want to set your game as priced, 100% of profit goes to you :)
+If you want to set your game as priced, please, don't do it here, since we are unable to support payments.
+
+# Re-uploading
+If you want to re-upload some games from here, if credited - feel free to do it, BUT! Please, even with credit, do NOT re-upload following games:
+- Ultimate Cross Adventure
+- PB95-PS3
+- Touhou 95: Mushroom Kingdom
