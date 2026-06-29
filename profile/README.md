@@ -26,8 +26,12 @@ But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconvenien
 * [Minesweeper Plus: PS3 Edition](https://acidps3.22web.org/games/ps3/msplus) [(Source Code for v0.3 and below)](https://github.com/AcidPS3-Project/MinesweeperPlusPS3)
 * [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidPS3-Project/FNFPS3Engine.gmx) (MAY BE ABANDONED DUE TO LACK OF MOTIVATION)
 * [DoodleBob: PS3 Port](https://acidps3.22web.org/games/ps3/doodlebob/) [(Source Code)](https://github.com/AcidPS3-Project/DoodleBob-PS3)
+* [PS3Sweeper+](https://acidps3.22web.org/games/ps3/ps3sweep)
 * (NON-ORG) Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
 * (NON-ORG) [Sonic Mania](https://acidps3.22web.org/games/ps3/sonicmania) [(Decompilation Project)](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
+
+## PSP
+* (NON-ORG) [Minesweeper Plus: Portable (Proof of Concept)](https://acidps3.22web.org/games/psp/mspp)
 
 # Note!!
 Fan-made Sonic ports for PS3 are done by DropSonic0, here is the [permission](https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74) to distribute on this service.\
@@ -35,7 +39,6 @@ For Sonic Mania you really need to have the original game, as it is a decompilat
 Also We do NOT own any game we make a port/edition of. Every original game is made by their respective owners.
 
 # Coming soon
-* PS3Sweeper+ (Minesweeper Plus: PS3 Edition re-written with C)
 * Five Nights at Freddy's: PS3 Edition (MAY BE VAPOR-WARE DUE TO LACK OF MOTIVATION)
 * Orange Roulette: PS3 Edition (Announced)
 * PB95-PS3 [(Source Code)](https://github.com/AcidPS3-Project/PB95-PS3) (MAY BE RE-WRITTEN)
