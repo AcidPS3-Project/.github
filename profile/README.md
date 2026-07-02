@@ -32,6 +32,7 @@ But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconvenien
 * [PS3Sweeper+](https://acidps3.22web.org/games/ps3/ps3sweep)
 * (NON-ORG) Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
 * (NON-ORG) [Sonic Mania](https://acidps3.22web.org/games/ps3/sonicmania) [(Decompilation Project)](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
+* (NON-ORG) [Touhou Koumakyou](https://acidps3.22web.org/games/ps3/touhou06)
 
 ## PSP
 * (NON-ORG) [Minesweeper Plus: Portable (Proof of Concept)](https://acidps3.22web.org/games/psp/mspp)
