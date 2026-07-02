@@ -8,6 +8,9 @@ AcidPS3 Project is considered as a service, where people can download some cool 
 From Games and DLCs to Customization stuff. If needed to make some other stuff for PS3, please, refer to the issues tab [here](https://github.com/AcidPS3-Project/AcidPS3Data/issues)!\
 We kinda focus on PS3 stuff mainly, but if we can, we might do some stuff for PSP, PS4 and PSVita.
 
+> [!WARNING]
+> Now there is a Store application available! [Refer here for more info.](http://acidps3.22web.org/store)
+
 > [!NOTE]
 > About game distributing:\
 > If you want to see some projects from other authors, We need their permission to distribute their work on our website.
