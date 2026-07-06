@@ -56,7 +56,6 @@ If you want to set your game as priced, please, don't do it here, since we are u
 > [!WARNING]
 > If you want to re-upload some games from here, if credited - feel free to do it, BUT! Please, even with credit, do NOT re-upload those following games:
 - Ultimate Cross Adventure
-- PB95-PS3
 - Touhou 95: Mushroom Kingdom
 
 ## Abandoned projects
