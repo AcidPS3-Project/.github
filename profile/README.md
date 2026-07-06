@@ -20,22 +20,18 @@ We kinda focus on PS3 stuff mainly, but if we can, we might do some stuff for PS
 
 # How can I submit my own game?
 It's very simple! Just go to the [issues tab](https://github.com/AcidPS3-Project/AcidPS3Data/issues), then add a new issue with "Submit your game" template with any of your desired console target, and fill up your issue. We will check anytime soon.\
-But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconveniences! ^_^
+But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconveniences! ^_^\
+Alternatively, you can contact me directly with adding the game. [Please refer here!](https://acidnt31.22web.org/contact/)
 
 # Games List
 
 ## PS3
-* [Baldi's Basics](https://acidps3.22web.org/games/ps3/baldi) (MAY BE ABANDONED DUE TO LACK OF MOTIVATION)
-* [Minesweeper Plus: PS3 Edition](https://acidps3.22web.org/games/ps3/msplus) [(Source Code for v0.3 and below)](https://github.com/AcidPS3-Project/MinesweeperPlusPS3)
-* [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidPS3-Project/FNFPS3Engine.gmx) (MAY BE ABANDONED DUE TO LACK OF MOTIVATION)
+* [Baldi's Basics](https://acidps3.22web.org/games/ps3/baldi) (SOON GONNA BE RE-WRITTEN)
 * [DoodleBob: PS3 Port](https://acidps3.22web.org/games/ps3/doodlebob/) [(Source Code)](https://github.com/AcidPS3-Project/DoodleBob-PS3)
 * [PS3Sweeper+](https://acidps3.22web.org/games/ps3/ps3sweep)
 * (NON-ORG) Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
 * (NON-ORG) [Sonic Mania](https://acidps3.22web.org/games/ps3/sonicmania) [(Decompilation Project)](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
 * (NON-ORG) [Touhou Koumakyou](https://acidps3.22web.org/games/ps3/touhou06)
-
-## PSP
-* (NON-ORG) [Minesweeper Plus: Portable (Proof of Concept)](https://acidps3.22web.org/games/psp/mspp)
 
 # Note!!
 Fan-made Sonic ports for PS3 are done by DropSonic0, here is the [permission](https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74) to distribute on this service.\
@@ -44,7 +40,7 @@ Also We do NOT own any game we make a port/edition of. Every original game is ma
 
 # Coming soon
 * Five Nights at Freddy's: PS3 Edition (MAY BE VAPOR-WARE DUE TO LACK OF MOTIVATION)
-* Orange Roulette: PS3 Edition (Announced)
+* Orange Roulette: PS3 Edition (Announced) (MAY BE VAPOR-WARE DUE TO LACK OF MOTIVATION)
 * PB95-PS3 [(Source Code)](https://github.com/AcidPS3-Project/PB95-PS3) (MAY BE RE-WRITTEN)
 * Geometry Dash: PS3 Edition (Announced) (MAY BE VAPOR-WARE DUE TO LACK OF MOTIVATION)
 * Big Money: PS3 Edition (Announced)
@@ -57,7 +53,15 @@ AcidPS3 Project service was, is and always will be free no matter what. We will 
 If you want to set your game as priced, please, don't do it here, since we are unable to support payments.
 
 # Re-uploading
-If you want to re-upload some games from here, if credited - feel free to do it, BUT! Please, even with credit, do NOT re-upload following games:
+> [!WARNING]
+> If you want to re-upload some games from here, if credited - feel free to do it, BUT! Please, even with credit, do NOT re-upload those following games:
 - Ultimate Cross Adventure
 - PB95-PS3
 - Touhou 95: Mushroom Kingdom
+
+## Abandoned projects
+> [!NOTE]
+> Please do not ask me to bring those projects back. You can try continuing those projects by yourselves.
+* [Minesweeper Plus: PS3 Edition](https://acidps3.22web.org/games/ps3/msplus) [(Source Code)](https://github.com/AcidPS3-Project/MinesweeperPlusPS3)
+* [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidPS3-Project/FNFPS3Engine.gmx)
+* (NON-ORG) [Minesweeper Plus: Portable (Proof of Concept)](https://acidps3.22web.org/games/psp/mspp)
