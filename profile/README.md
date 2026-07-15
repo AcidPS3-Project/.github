@@ -31,7 +31,7 @@ Alternatively, you can contact me directly with adding the game. [Please refer h
 * [PS3Sweeper+](https://acidps3.22web.org/games/ps3/ps3sweep)
 * (NON-ORG) Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
 * (NON-ORG) [Sonic Mania](https://acidps3.22web.org/games/ps3/sonicmania) [(Decompilation Project)](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
-* (NON-ORG) [Touhou Koumakyou](https://acidps3.22web.org/games/ps3/touhou06)
+* (NON-ORG) [Touhou Koumakyou](https://acidps3.22web.org/games/ps3/touhou06) [(Decompilation Project)](https://github.com/DropSonic0/th06)
 
 # Note!!
 Fan-made Sonic ports for PS3 are done by DropSonic0, here is the [permission](https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74) to distribute on this service.\
