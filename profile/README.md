@@ -26,7 +26,6 @@ Alternatively, you can contact me directly with adding the game. [Please refer h
 # Games List
 
 ## PS3
-* [Baldi's Basics (Legacy version)](https://acidps3.22web.org/games/ps3/baldi)
 * [DoodleBob: PS3 Port](https://acidps3.22web.org/games/ps3/doodlebob/) [(Source Code)](https://github.com/AcidPS3-Project/DoodleBob-PS3)
 * [PS3Sweeper+](https://acidps3.22web.org/games/ps3/ps3sweep)
 * (NON-ORG) Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
@@ -64,4 +63,5 @@ If you want to set your game as priced, please, don't do it here, since we are u
 > Please do not ask me to bring those projects back. You can try continuing those projects by yourselves.
 * [Minesweeper Plus: PS3 Edition](https://acidps3.22web.org/games/ps3/msplus) [(Source Code)](https://github.com/AcidPS3-Project/MinesweeperPlusPS3)
 * [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidPS3-Project/FNFPS3Engine.gmx)
+* [Baldi's Basics (Legacy version)](https://acidps3.22web.org/games/ps3/baldi)  [(Source Code)](https://github.com/AcidPS3-Project/BaldisBasics-PS3)
 * (NON-ORG) [Minesweeper Plus: Portable (Proof of Concept)](https://acidps3.22web.org/games/psp/mspp)
