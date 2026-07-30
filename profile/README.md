@@ -26,6 +26,7 @@ Alternatively, you can contact me directly with adding the game. [Please refer h
 # Games List
 
 ## PS3
+* [Baldi's Basics for PS3](https://acidps3.22web.org/games/ps3/baldi/) [(Source Code)](https://github.com/AcidPS3-Project/Baldi-PS3)
 * [DoodleBob: PS3 Port](https://acidps3.22web.org/games/ps3/doodlebob/) [(Source Code)](https://github.com/AcidPS3-Project/DoodleBob-PS3)
 * [PS3Sweeper+](https://acidps3.22web.org/games/ps3/ps3sweep)
 * (NON-ORG) Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
@@ -40,7 +41,6 @@ Also We do NOT own any game we make a port/edition of. Every original game is ma
 # Coming soon
 * Five Nights at Freddy's: PS3 Edition (MAY BE VAPOR-WARE DUE TO LACK OF MOTIVATION)
 * Orange Roulette: PS3 Edition (Announced) (MAY BE VAPOR-WARE DUE TO LACK OF MOTIVATION)
-* Baldi's Basics for PS3 [(Source Code)](https://github.com/AcidPS3-Project/Baldi-PS3)
 * PB95-PS3 [(Source Code)](https://github.com/AcidPS3-Project/PB95-PS3) (MAY BE RE-WRITTEN)
 * Geometry Dash: PS3 Edition (Announced) (MAY BE VAPOR-WARE DUE TO LACK OF MOTIVATION)
 * Big Money: PS3 Edition (Announced)
