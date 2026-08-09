@@ -13,10 +13,10 @@ We kinda focus on PS3 stuff mainly, but if we can, we might do some stuff for PS
 
 > [!NOTE]
 > About game distributing:\
-> If you want to see some projects from other authors, We need their permission to distribute their work on our website.
+> If you want to see some projects from other authors, we need their permission to distribute their work in our services.
 > 
 > About customization distributing: (Themes, Coldboots, and other..)\
-> We might just credit them and some times later distribute this stuff on our website.
+> We might just credit them and some times later distribute this stuff on our service.
 
 # How can I submit my own game?
 It's very simple! Just go to the [issues tab](https://github.com/AcidPS3-Project/AcidPS3Data/issues), then add a new issue with "Submit your game" template with any of your desired console target, and fill up your issue. We will check anytime soon.\
@@ -60,7 +60,7 @@ If you want to set your game as priced, please, don't do it here, since we are u
 
 ## Abandoned projects
 > [!NOTE]
-> Please do not ask me to bring those projects back. You can try continuing those projects by yourselves.
+> Please do not ask us to bring those projects back. You can try continuing those projects by yourselves.
 * [Minesweeper Plus: PS3 Edition](https://acidps3.22web.org/games/ps3/msplus) [(Source Code)](https://github.com/AcidPS3-Project/MinesweeperPlusPS3)
 * [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidPS3-Project/FNFPS3Engine.gmx)
 * [Baldi's Basics (Legacy version)](https://acidps3.22web.org/games/ps3/baldi)  [(Source Code)](https://github.com/AcidPS3-Project/BaldisBasics-PS3)
