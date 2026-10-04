@@ -32,15 +32,19 @@ Alternatively, you can contact me directly with adding the game. [Please refer h
 * (NON-ORG) Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
 * (NON-ORG) [Sonic Mania](https://acidps3.22web.org/games/ps3/sonicmania) [(Decompilation Project)](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
 * (NON-ORG) [Touhou Koumakyou](https://acidps3.22web.org/games/ps3/touhou06) [(Decompilation Project)](https://github.com/DropSonic0/th06)
+* (NON-ORG) Friday Night Station 3
+* (NON-ORG) Super Hexagon: Fanmade Edition
+* (NON-ORG) Super Sandbox
 
 # Note!!
-Fan-made Sonic ports for PS3 are done by DropSonic0, here is the [permission](https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74) to distribute on this service.\
+Fan-made Sonic & Touhou 06 ports for PS3 are done by DropSonic0, here is the [permission](https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74) to distribute on this service.\
 For Sonic Mania you really need to have the original game, as it is a decompilation of Sonic Mania. Tutorial may be found [here](https://github.com/DropSonic0/Sonic-Mania-Decompilation#support-the-official-release-of-sonic-mania-plus).\
+FNS3, SuperHexagon and SuperSandbox were made by Chromatics Team [(as always, here is the permission)](https://github.com/user-attachments/assets/2109880e-272e-4f7f-ada7-f69780ec1dfd).\
 Also We do NOT own any game we make a port/edition of. Every original game is made by their respective owners.
 
 # Coming soon
 * Five Nights at Freddy's: PS3 Edition (MAY BE VAPOR-WARE DUE TO LACK OF MOTIVATION)
-* Orange Roulette: PS3 Edition (Announced) (MAY BE VAPOR-WARE DUE TO LACK OF MOTIVATION)
+* Orange Roulette: PS3 Edition (Announced)
 * PB95-PS3 [(Source Code)](https://github.com/AcidPS3-Project/PB95-PS3) (MAY BE RE-WRITTEN)
 * Geometry Dash: PS3 Edition (Announced) (MAY BE VAPOR-WARE DUE TO LACK OF MOTIVATION)
 * Big Money: PS3 Edition (Announced)
